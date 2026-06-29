@@ -1,2 +1,2 @@
 # Prime Checker
-Checks if a number is prime.
+Checks if a number is prime
